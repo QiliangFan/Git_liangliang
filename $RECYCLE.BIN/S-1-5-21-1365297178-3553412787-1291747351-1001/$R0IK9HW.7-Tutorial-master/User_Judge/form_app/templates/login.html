@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Login</title>
+</head>
+<body>
+<h1>登录页面</h1>
+<form action="{% url 'login' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{uf.as_p}}
+ <input type="submit" value="ok"></input>
+</form>
+<a href="/regist/">注册</a>
+<a href="/index/">主页</a>
+</body>
+</html>
