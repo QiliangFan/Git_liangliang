@@ -44,8 +44,9 @@ public class ExpressionConvert {
                 Stack<String> varStack=new Stack<>();
                 Stack<String> opeStack=new Stack<>();
                 LinkedList<String> expression=new LinkedList<>();
-                Pattern expre_P=Pattern.compile("((\\()|(+)|(-)|(*)|(/)|(%)|(\\))|([^\\(&&^\\)&&^+&&^-&&^*&&^/]+))");
+                Pattern expre_P=Pattern.compile("((\\()|(\\+)|(-)|(\\*)|(/)|(%)|(\\))|([\\w$]+))");
                 Matcher expre_m=expre_P.matcher(s);
+              //  System.out.println(expre_m.find());
                 while(expre_m.find()){
                     System.out.println(expre_m.group());
                 }
