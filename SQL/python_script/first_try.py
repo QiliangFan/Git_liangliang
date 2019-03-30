@@ -1,21 +1,36 @@
 import pymysql
+import time
 
 db = pymysql.connect("localhost", "test", "fanqiliang123456", "exercise")
 
-cursor = db.cursor()
 
-#cursor.execute("SELECT VERSION();SELECT DATABASE();")
-cursor.execute("SELECT DATABASE();")
+def runTime(s):
+    start_time=time.time()
+    cursor = db.cursor()
+    cursor.execute(s)
+    end_time=time.time()
+    print("run-time is:%f"%(end_time-start_time))
 
-data = cursor.fetchone()
+s1='''
+SELECT DISTINCT course_id
+FROM section
+WHERE semester="Fall" AND year=2018 AND 
+      Course_id IN (SELECT course_id FROM section WHERE semester= "Spring" AND year=2019);
+'''
+s2='''
+SELECT DISTINCT T1.course_id course_id
+FROM section AS T1,section AS T2
+WHERE T1.semester="Fall" AND T1.year=2018 AND T2.semester="Spring" AND T2.year=2019 AND T1.course_id=T2.course_id;
+'''
 
-cursor.execute("SELECT * FROM advisor;")
+s3='''
+SELECT DISTINCT T1.course_id course_id
+FROM section AS T1,section AS T2
+WHERE T1.semester="Fall" AND T1.year=2018 AND T2.semester="Spring" AND T2.year=2019 AND T1.course_id=T2.course_id;
+)
+'''
 
-data1 = cursor.fetchall()
-
-print("Database version: %s " % data)
-
-for i in range(0,2000,1):
-    print("What we get: %10s %10s" % (data1[i][0], data1[i][1]))
-
+runTime(s1)
+runTime(s2)
+#runTime(s3)
 db.close()
