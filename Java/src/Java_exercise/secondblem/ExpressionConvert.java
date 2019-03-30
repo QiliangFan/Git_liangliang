@@ -65,6 +65,12 @@ public class ExpressionConvert {
        /* for(String s:expression){   //for test
             System.out.println(s);
         }*/
+        if(expression.size()==1){
+            String n=expression.get(0);
+            String value=getValue(n);
+            System.out.println(value);
+            return true;
+        }
         Stack<String> opeStack=new Stack<>();
         for(String s:expression){
             if(isOperator(s)){
@@ -160,7 +166,7 @@ public class ExpressionConvert {
                 i-=2;
             }
         }
-        System.out.println(expression_suffix);
+        System.out.println(expression_suffix.get(0));
         return true;
     }
     static void getInput() {        //jshell
@@ -169,11 +175,15 @@ public class ExpressionConvert {
         begin:while (sc.hasNextLine()) {
             String s = sc.nextLine();
             strlist.add(s);
-            Pattern p = Pattern.compile("((int)|(long)|(double)|(float)) (.+)=(\\-?\\d+.?\\d*);?");  //update: processing negative numbers
+            Pattern p = Pattern.compile("((int)|(long)|(double)|(float)) (.+)=(-?\\d+.?\\d*);?");  //update: processing negative numbers
             Matcher m = p.matcher(s);
             boolean b = m.matches();
+
+            Pattern p_assign=Pattern.compile(" *([a-zA-Z_$][\\w$_]*) *= *(-?\\d+.?\\d*) *");
+            Matcher m_assign=p_assign.matcher(s);
             if (b) {        //To make the variable definition
-                Pattern pp=Pattern.compile("((int)|(long)|(double)|(float)|([$a-zA-Z][\\w$]*)|(-?\\d+))");
+                //System.out.println("1");     //for test
+                Pattern pp=Pattern.compile("(int)|(long)|(double)|(float)|([$a-zA-Z_][\\w$_]*)|(-?\\d+.?\\d*)");
                 Matcher mm=pp.matcher(s);
                 if (mm.find()) {
                     Var var = new Var();
@@ -187,8 +197,22 @@ public class ExpressionConvert {
                     }
                     varlist.add(var);
                 }
-            }
-            else{    //To make the expression-convert!
+            }else if(m_assign.matches()){
+                //System.out.println("2");     //for test
+                String name=new String();
+                String value=new String();
+                 name=m_assign.group(1);
+                 value=m_assign.group(2);
+                //System.out.println(name+" "+value);   //for test
+                if(!verify_name_valid(name)){
+                    System.out.println("Variable Undefined!");
+                    continue begin;
+                }
+                for(Var i:varlist){
+                    if(i.name.equals(name)) i.value=value;
+                }
+            }else{    //To make the expression-convert!
+                //System.out.println("3");    //for test!
                 LinkedList<String> expression_suffix=new LinkedList<>();
                 LinkedList<String> expression=new LinkedList<>();
                 Pattern expre_P=Pattern.compile("((\\()|(\\+)|(-)|(\\*)|(/)|(%)|(\\))|([\\w$]+))");
@@ -223,10 +247,10 @@ class Var {     //simplify the input
     String value = null;
 
     public boolean isValid() {
-        if (!type.equals("int")  && !type.equals("double"))
+        if (!type.equals("int")  && !type.equals("double")&&!type.equals("long")&&!type.equals("float"))
             return false;
         boolean b1 = Pattern.matches("\\d.*", name);
-        boolean b2 = Pattern.matches(".*[\\D&&\\W&&^$&&^_].*", name);
+        boolean b2 = Pattern.matches("[^\\w_$]*", name);
         if (b1 || b2)
             return false;
         return true;
