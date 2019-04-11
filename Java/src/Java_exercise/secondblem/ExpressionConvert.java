@@ -1,14 +1,29 @@
+import java.io.IOException;
 import java.util.*;
 import java.util.Scanner;
+import java.util.logging.ConsoleHandler;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
 public class ExpressionConvert {
+    static Logger ml;
+    static FileHandler fh;
     static LinkedList<String> strlist = new LinkedList<String>();
     static LinkedList<Var> varlist = new LinkedList<Var>();
 
-    public static void main(String[] args) {   //entrance
+    public static void main(String[] args) throws Exception{   //entrance
+        ExpressionConvert.fh=new FileHandler("log.txt");
+        ExpressionConvert.ml=Logger.getLogger("Expression Convert");
+        ml.setUseParentHandlers(false);
+        ml.addHandler(fh);
+        ml.removeHandler(new ConsoleHandler());
+        fh.setFormatter(new SimpleFormatter());
+        ml.setLevel(Level.ALL);
         getInput();
     }
 
@@ -68,6 +83,7 @@ public class ExpressionConvert {
         if(expression.size()==1){
             String n=expression.get(0);
             String value=getValue(n);
+            ml.info("output:"+value);
             System.out.println(value);
             return true;
         }
@@ -166,14 +182,17 @@ public class ExpressionConvert {
                 i-=2;
             }
         }
+        ml.info("output:"+expression_suffix.get(0));
         System.out.println(expression_suffix.get(0));
         return true;
     }
-    static void getInput() {        //jshell
+    static void getInput() throws Exception{        //jshell
         Scanner sc = new Scanner(System.in);
         sc.useDelimiter(";|\n");
         begin:while (sc.hasNextLine()) {
+            
             String s = sc.nextLine();
+            ml.info("input:"+s);
             strlist.add(s);
             Pattern p = Pattern.compile("((int)|(long)|(double)|(float)) (.+)=(-?\\d+.?\\d*);?");  //update: processing negative numbers
             Matcher m = p.matcher(s);
@@ -191,9 +210,14 @@ public class ExpressionConvert {
                     if(mm.find()) var.name = mm.group();
                     if(mm.find()) var.value = mm.group();
                     //System.out.println(var.name);   //for test
-                    if(!var.isValid()) {
-                        System.out.println("The variable name is incorrect!");
+
+                    try{
+                        var.isValid();
+                    }catch(VariableTypeException vte){
+                        System.out.println("Incorrect Varibale Type!");
                         continue begin;
+                    }catch(VariableNameException vne){
+                        System.out.println("Invalid Variable Name!");
                     }
                     varlist.add(var);
                 }
@@ -205,7 +229,7 @@ public class ExpressionConvert {
                  value=m_assign.group(2);
                 //System.out.println(name+" "+value);   //for test
                 if(!verify_name_valid(name)){
-                    System.out.println("Variable Undefined!");
+                    System.out.println("Variable Undefined OR Invalid Operation");
                     continue begin;
                 }
                 for(Var i:varlist){
@@ -230,8 +254,12 @@ public class ExpressionConvert {
                 }
                 /*for(String sss:expression)    //for test!!!
                 System.out.println(sss);   */
-                if(!expre_convertTo_expreSuffix(expression,expression_suffix)){
-                    System.out.println("Operator matching exception");
+               try{ 
+                   if(!expre_convertTo_expreSuffix(expression,expression_suffix)){
+                    //System.out.println("Operator matching exception"); 
+                    throw new OperatorNotMatchException();
+                    }
+                }catch(Exception e){
                     continue begin;
                 }
             }
@@ -246,7 +274,7 @@ class Var {     //simplify the input
     String name = null;
     String value = null;
 
-    public boolean isValid() {
+    public boolean isValid() throws Exception{
         if (!type.equals("int")  && !type.equals("double")&&!type.equals("long")&&!type.equals("float"))
             return false;
         boolean b1 = Pattern.matches("\\d.*", name);
@@ -255,5 +283,34 @@ class Var {     //simplify the input
             return false;
         return true;
     }
-
+   
 }
+
+class OperatorNotMatchException extends Exception{
+    public OperatorNotMatchException(Exception e){
+        super(e);
+    }
+    public OperatorNotMatchException(){
+
+    }
+}
+
+class VariableTypeException extends Exception{
+    public VariableTypeException(Exception e){
+        super(e);
+    }
+    public VariableTypeException(){
+
+    }
+}
+
+class VariableNameException extends Exception{
+    static final long serialVersionUID=45L;
+    public VariableNameException(Exception e){
+        super(e);
+    }
+    public VariableNameException(){
+
+    }
+}
+
