@@ -18,6 +18,7 @@ public class ExceptionTest{
     }
 }
 
+
 class myException extends Exception{
     public myException(){}
     public myException(Exception e){
