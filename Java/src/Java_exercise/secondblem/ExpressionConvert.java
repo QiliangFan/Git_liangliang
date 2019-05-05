@@ -1,4 +1,5 @@
-import java.io.IOException;
+package Java_exercise.secondblem;
+
 import java.util.*;
 import java.util.Scanner;
 import java.util.logging.ConsoleHandler;
