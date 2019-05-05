@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ac489-e317-4f94-829e-36fbcd8cb51a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/ReadMyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/employee.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/forthproblem/ExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/forthproblem/myException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/ExpressionConvert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/OperatorNotMatchException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/Var.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/VariableNameException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/VariableTypeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/thirdproblem/Cache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/thirdproblem/thirdproblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_exercise/forthproblem/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/forthproblem/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_exercise/forthproblem/LogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/forthproblem/LogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/python_script/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/python_script/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/sixthproblem_serialize/LiangLiang.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/sixthproblem_serialize/LiangLiang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/sixthproblem_serialize/ReadMyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/sixthproblem_serialize/ReadMyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,11 +59,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/ReadMyObject.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/test/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,58 +84,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/output.txt">
+        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" selection-start-column="31" selection-end-column="31" />
+            <state relative-caret-position="1938">
+              <caret line="142" column="6" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1634">
-              <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/InputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5795">
-              <caret line="331" column="18" selection-start-line="331" selection-start-column="18" selection-end-line="331" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/lang/ref/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4370">
-              <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="21926">
+              <caret line="1218" column="28" selection-start-line="1218" selection-start-column="28" selection-end-line="1218" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -155,6 +113,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -170,6 +131,9 @@
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/Employee.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/ReadMyObject.java" />
+        <option value="$PROJECT_DIR$/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/test/MyThread.java" />
       </list>
     </option>
   </component>
@@ -199,7 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,11 +171,27 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +201,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java_exercise/test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -229,7 +209,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.15393387" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="database.data.views" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,10 +232,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ReadMyObject" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
-      <option name="MAIN_CLASS_NAME" value="Java_exercise.sixthproblem_serialize.ReadMyObject" />
+    <configuration name="MyThread" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="Java_exercise.test.MyThread" />
       <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -281,11 +261,16 @@
       <workItem from="1556157175780" duration="7158000" />
       <workItem from="1556167239622" duration="983000" />
       <workItem from="1556200661570" duration="3000" />
+      <workItem from="1556414696023" duration="8795000" />
+      <workItem from="1556425159124" duration="5639000" />
+      <workItem from="1556443494626" duration="682000" />
+      <workItem from="1556458557765" duration="4034000" />
+      <workItem from="1556948771327" duration="1526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28313000" />
+    <option name="totallyTimeSpent" value="48989000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -298,28 +283,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.23994638" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.32869786" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.3282123" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5020107" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32869786" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.29962075" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.3282123" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.2988827" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49798927" weight="0.32960895" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32869786" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="SQL Generator" order="14" weight="0.28631285" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -337,22 +323,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" weight="0.23324397" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" weight="0.2533512" />
       <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.3282123" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5020107" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32960895" />
-      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.29962075" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49865952" visible="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.2988827" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49798927" weight="0.32960895" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="SQL Generator" order="14" weight="0.28631285" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -361,7 +347,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
@@ -377,13 +363,22 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java</url>
+          <line>27</line>
+          <properties class="Java_exercise.seventhproblem.ComputePiFJ" method="compute">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -591,11 +586,36 @@
     <entry file="file://$PROJECT_DIR$/class/Java_exercise/sixthproblem_serialize/output.txt" />
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/ReadMyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="456">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -606,38 +626,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/util/concurrent/RecursiveTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5795">
-          <caret line="331" column="18" selection-start-line="331" selection-start-column="18" selection-end-line="331" selection-end-column="18" />
+        <state relative-caret-position="393">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/lang/ref/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4370">
+        <state relative-caret-position="393">
           <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/HelloWorld.java">
+    <entry file="uml://JAVA/Java_exercise.seventhproblem.MyForkJoin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java_exercise.seventhproblem.MyForkJoin</OriginalElement>
+          <nodes>
+            <node x="" y="">Java_exercise.seventhproblem.MyForkJoin</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-123.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="151">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java_exercise.seventhproblem.ComputePiFJ">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java_exercise.seventhproblem.ComputePiFJ</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.ForkJoinTask</node>
+            <node x="" y="">java.util.concurrent.Future</node>
+            <node x="" y="">Java_exercise.seventhproblem.ComputePiFJ</node>
+            <node x="" y="">java.util.concurrent.RecursiveTask</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-58.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="331" column="18" selection-start-line="331" selection-start-column="18" selection-end-line="331" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/util/concurrent/ForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21926">
+          <caret line="1218" column="28" selection-start-line="1218" selection-start-column="28" selection-end-line="1218" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="142" column="6" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/test/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
