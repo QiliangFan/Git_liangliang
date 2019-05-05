@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c192802-ad3b-4167-a94f-d7c115974c9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/class/Java_exercise/sixthproblem_serialize/LiangLiang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/class/Java_exercise/sixthproblem_serialize/LiangLiang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/class/Java_exercise/sixthproblem_serialize/ReadMyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/class/Java_exercise/sixthproblem_serialize/ReadMyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/m.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c192802-ad3b-4167-a94f-d7c115974c9a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sixth_work/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="253">
+              <caret line="17" column="29" lean-forward="true" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -334,12 +326,12 @@
       <workItem from="1556274795312" duration="12098000" />
       <workItem from="1556288856275" duration="1771000" />
       <workItem from="1557034351053" duration="7531000" />
-      <workItem from="1557050460117" duration="1643000" />
+      <workItem from="1557050460117" duration="1902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32020000" />
+    <option name="totallyTimeSpent" value="32279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
@@ -568,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sixth_work/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="253">
+          <caret line="17" column="29" lean-forward="true" selection-end-line="32" />
         </state>
       </provider>
     </entry>
