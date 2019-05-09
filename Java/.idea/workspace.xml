@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ac489-e317-4f94-829e-36fbcd8cb51a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/secondblem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/secondblem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/META-INF/Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="120" column="45" lean-forward="true" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
+            <state relative-caret-position="-307">
+              <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#CD#0;class#CD#0" />
@@ -287,12 +280,12 @@
       <workItem from="1557330507391" duration="194000" />
       <workItem from="1557365858891" duration="7271000" />
       <workItem from="1557377320547" duration="1953000" />
-      <workItem from="1557403188177" duration="2881000" />
+      <workItem from="1557403188177" duration="3800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69489000" />
+    <option name="totallyTimeSpent" value="70408000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -305,7 +298,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -809,8 +801,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="120" column="45" lean-forward="true" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
+        <state relative-caret-position="-307">
+          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#CD#0;class#CD#0" />
