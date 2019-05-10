@@ -1,23 +1,21 @@
+drop procedure if exists course_search;
 
-drop table if exists pre_table;
-drop procedure if exists pre_search;
-
-create procedure pre_search(in course varchar(8))
+#
+create procedure course_search(in deptname varchar(20))
     deterministic
     reads sql data
 begin
-    with recursive pre_table(pre_id) as (
-        select prereq_id
-        from prereq
-        where course_id=course
+        with recursive pre_table(pre_id) as (
+        select  prereq_id
+        from prereq join course on(course.course_id=prereq.course_id)
+        where dept_name=deptname
+#         select course_id
+#         from course
+#         where deptname=dept_name
         union
         select prereq_id
-        from prereq,pre_table
-        where prereq.course_id=pre_id
-    )
-    select *
-    from pre_table;
+        from prereq join pre_table on(prereq.course_id=pre_id)
+
+        )select * from pre_table;
+
 end;
-
-
-call pre_search(362);

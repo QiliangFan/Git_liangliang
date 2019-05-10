@@ -1134,8 +1134,8 @@
     <view id="291" parent="2" name="departbasicview">
       <Definer>root@%</Definer>
     </view>
-    <routine id="292" parent="2" name="pre_search">
-      <SourceTextLength>273</SourceTextLength>
+    <routine id="292" parent="2" name="course_search">
+      <SourceTextLength>407</SourceTextLength>
       <Definer>test@%</Definer>
       <RoutineKind>procedure</RoutineKind>
     </routine>
@@ -4976,9 +4976,9 @@ start_min</ColNames>
       <Position>2</Position>
       <DataType>varchar(15)|0s</DataType>
     </column>
-    <argument id="761" parent="292" name="course">
+    <argument id="761" parent="292" name="deptname">
       <Position>1</Position>
-      <DataType>varchar(8)|0s</DataType>
+      <DataType>varchar(20)|0s</DataType>
     </argument>
     <column id="762" parent="293" name="CHARACTER_SET_NAME">
       <Position>1</Position>

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ac489-e317-4f94-829e-36fbcd8cb51a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SQL/.idea/dictionaries/.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/sixth_work/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/sixth_work/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/sixth_work/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/sixth_work/test.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-307">
-              <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+            <state relative-caret-position="537">
+              <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#CD#0;class#CD#0" />
@@ -140,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +187,30 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
+              <item name="SecondExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
+              <item name="SecondExpression" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
               <item name="seventhproblem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,6 +225,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -280,12 +310,12 @@
       <workItem from="1557330507391" duration="194000" />
       <workItem from="1557365858891" duration="7271000" />
       <workItem from="1557377320547" duration="1953000" />
-      <workItem from="1557403188177" duration="3800000" />
+      <workItem from="1557403188177" duration="5293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70408000" />
+    <option name="totallyTimeSpent" value="71901000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -298,13 +328,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" weight="0.55697054" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.19571045" />
       <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
@@ -314,7 +345,7 @@
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49865952" visible="true" weight="0.32402235" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32402235" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.45530728" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -338,7 +369,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.55697054" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" weight="0.55697054" />
       <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
@@ -348,7 +379,7 @@
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32402235" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49865952" visible="true" weight="0.32402235" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.45530728" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -766,19 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/secondblem/SecondExpression/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#15512#15513#0" expanded="true" />
-            <element signature="e#15553#15554#0" expanded="true" />
-            <element signature="e#15576#15577#0" expanded="true" />
-            <element signature="e#15619#15620#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/secondblem/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -799,10 +817,24 @@
     <entry file="file://$PROJECT_DIR$/class/Java_exercise/test/Account.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/secondblem/SecondExpression/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="304" column="31" lean-forward="true" selection-start-line="304" selection-start-column="31" selection-end-line="304" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#15512#15513#0" expanded="true" />
+            <element signature="e#15553#15554#0" expanded="true" />
+            <element signature="e#15576#15577#0" expanded="true" />
+            <element signature="e#15619#15620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-307">
-          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+        <state relative-caret-position="537">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#CD#0;class#CD#0" />

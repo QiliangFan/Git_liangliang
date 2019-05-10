@@ -95,7 +95,9 @@ class SaleThread extends Thread implements PrintTime{
     }
     @Override
     public void run() {
-
+        while(true){
+            printTime("SaleThread Begin Work");
+        }
     }
 
 }
