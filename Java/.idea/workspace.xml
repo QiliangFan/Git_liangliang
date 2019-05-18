@@ -2,14 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ac489-e317-4f94-829e-36fbcd8cb51a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SQL/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/isPrimeNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/readNumber1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/sortMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUI/MyGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise/TestGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence2/concurrence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/eight_work/modify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/eight_work/tes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/eight_work/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/ACPI_LoanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/AC_LoanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Cache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/CD.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/CD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/ControlThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/ControlThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/GetInThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/GetInThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/PrintTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/RentThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/RentThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/SaleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/SaleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/concurrentWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/class/Java_exercise/seventhproblem/concurrence/concurrentWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/LoanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/LoanFunctionSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/LogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/POAPOT_LoanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/ReturnFund.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/firstProblem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/myException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/thirdproblem.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/exercise.2AGReg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/dataSources/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/sixth_work/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/sixth_work/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/sixth_work/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/sixth_work/test.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,17 +88,34 @@
       <node key="b6e8d81a-d439-4c20-818b-137ce2d2a05c" />
     </expanded>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise/TestGui.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+            <state relative-caret-position="722">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#CD#0;class#CD#0" />
-                <element signature="class#ControlThread#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="171" column="36" selection-end-line="199" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1648#1649#0" expanded="true" />
+                <element signature="e#1685#1686#0" expanded="true" />
+                <element signature="e#1711#1712#0" expanded="true" />
+                <element signature="e#1747#1748#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,6 +162,15 @@
         <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurence/test.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence2/concurrence2.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/readNumber1/readNumber1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/readNumber1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/isPrimeNumber/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/sortMethod/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/eightproblem/MyGui.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUI/MyGui.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise/TestGui.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java" />
       </list>
     </option>
   </component>
@@ -136,7 +190,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="35" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -156,24 +210,6 @@
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="class" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,23 +223,54 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
+              <item name="eightproblem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
-              <item name="SecondExpression" type="462c0819:PsiDirectoryNode" />
+              <item name="eightproblem" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="secondblem" type="462c0819:PsiDirectoryNode" />
-              <item name="SecondExpression" type="462c0819:PsiDirectoryNode" />
+              <item name="eightproblem" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIexercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="PrepareForTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="PrepareForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="sortMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="PrepareForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="PrepareForTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
               <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
@@ -240,7 +307,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -270,15 +337,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="concurrentWork" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
-      <option name="MAIN_CLASS_NAME" value="Java_exercise.seventhproblem.concurrence.concurrentWork" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Java_exercise.PrepareForTest.tree.Main" />
       <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gui" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="Java_exercise.eightproblem.GUIexercise.TestGui" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.gui" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_INTERFACES,ALPHA_COMPARATOR,VISIBILITY_SORTER" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -311,11 +393,22 @@
       <workItem from="1557365858891" duration="7271000" />
       <workItem from="1557377320547" duration="1953000" />
       <workItem from="1557403188177" duration="5293000" />
+      <workItem from="1557540123300" duration="53000" />
+      <workItem from="1557540252106" duration="12782000" />
+      <workItem from="1557580645756" duration="628000" />
+      <workItem from="1557584572592" duration="2058000" />
+      <workItem from="1557636633995" duration="1190000" />
+      <workItem from="1557928252955" duration="1368000" />
+      <workItem from="1557933696591" duration="6253000" />
+      <workItem from="1557965399301" duration="1347000" />
+      <workItem from="1557969847971" duration="8083000" />
+      <workItem from="1558019530573" duration="3808000" />
+      <workItem from="1558087145961" duration="588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71901000" />
+    <option name="totallyTimeSpent" value="110059000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -333,10 +426,10 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.50139666" side_tool="true" weight="0.20107238" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.19571045" />
-      <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.45530728" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="6" sideWeight="0.54469275" side_tool="true" visible="true" weight="0.21983914" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.3282123" />
@@ -346,7 +439,7 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32402235" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.45530728" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.47905028" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49798927" weight="0.32960895" />
@@ -369,7 +462,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49860334" weight="0.55697054" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.20107238" />
       <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
@@ -379,7 +472,7 @@
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49865952" visible="true" weight="0.32402235" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32402235" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.45530728" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -428,6 +521,18 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/sortMethod/Main.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/MyForkJoin.java</url>
           <line>27</line>
@@ -440,10 +545,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="compute" />
-        <watch expression="sufix" />
-        <watch expression="result" />
-        <watch expression="s" />
+        <watch expression="v" />
       </configuration>
     </watches-manager>
   </component>
@@ -466,101 +568,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/RandomAccessFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="123" column="11" selection-start-line="123" selection-start-column="11" selection-end-line="123" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/forthproblem/ExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/forthproblem/LogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/firstproblem/LoanFunctionSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="2772" column="19" selection-start-line="2772" selection-start-column="19" selection-end-line="2772" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/fifthproblem/account.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/schema/exercise/table/classroom">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/schema/exercise/table/department">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b6e8d81a-d439-4c20-818b-137ce2d2a05c/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/collation/utf16_persian_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/collation/utf16_roman_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/Java_exercise/fifthproblem/account.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk11/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5662">
-          <caret line="342" column="11" selection-start-line="342" selection-start-column="11" selection-end-line="342" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/schema/sys/table/time_slot">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/schema/exercise/table/advisor">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
-          <filtering enabled="true">
+          <filtering>
             <filter text="" />
           </filtering>
         </state>
@@ -581,7 +592,7 @@
     <entry file="das://e9b3c979-8090-4790-8cc7-34f204227933/schema/exercise/table/prereq">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
-          <filtering enabled="true">
+          <filtering>
             <filter text="" />
           </filtering>
         </state>
@@ -831,14 +842,374 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/CD.class" />
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.class" />
+    <entry file="uml://JavaScript-modules-diagram/G:/Git_liangliang/Java/src/Java_exercise/seventhproblem/concurrence">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="130.0" y="95.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java_exercise.seventhproblem.concurrence.concurrentWork">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java_exercise.seventhproblem.concurrence.concurrentWork</OriginalElement>
+          <nodes>
+            <node x="" y="">Java_exercise.seventhproblem.concurrence.concurrentWork</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="79.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Java_exercise.seventhproblem.concurrence.PrintTime">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Java_exercise.seventhproblem.concurrence.PrintTime</OriginalElement>
+          <nodes>
+            <node x="372.0" y="277.0">java.lang.Thread.WeakClassKey</node>
+            <node x="0.0" y="277.0">java.lang.Thread.UncaughtExceptionHandler</node>
+            <node x="897.5" y="158.0">Java_exercise.seventhproblem.concurrence.PrintTime</node>
+            <node x="786.0" y="277.0">Java_exercise.seventhproblem.concurrence.RentThread</node>
+            <node x="1086.0" y="277.0">Java_exercise.seventhproblem.concurrence.ControlThread</node>
+            <node x="569.25" y="79.0">java.lang.Runnable</node>
+            <node x="932.0" y="277.0">Java_exercise.seventhproblem.concurrence.GetInThread</node>
+            <node x="285.4732142857142" y="0.0">java.lang.FunctionalInterface</node>
+            <node x="640.0" y="277.0">Java_exercise.seventhproblem.concurrence.SaleThread</node>
+            <node x="258.0" y="277.0">java.lang.Thread.Caches</node>
+            <node x="577.25" y="158.0">java.lang.Thread</node>
+            <node x="203.0" y="351.0">Java_exercise.seventhproblem.concurrence.CD</node>
+            <node x="0.0" y="351.0">Java_exercise.seventhproblem.concurrence.concurrentWork</node>
+            <node x="534.0" y="277.0">java.lang.Thread.State</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Java_exercise.seventhproblem.concurrence.SaleThread" target="Java_exercise.seventhproblem.concurrence.PrintTime">
+              <point x="31.5" y="-14.5" />
+              <point x="734.5" y="247.0" />
+              <point x="912.25" y="247.0" />
+              <point x="-44.25" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.GetInThread" target="Java_exercise.seventhproblem.concurrence.PrintTime">
+              <point x="33.5" y="-14.5" />
+              <point x="1032.5" y="257.0" />
+              <point x="971.25" y="257.0" />
+              <point x="14.75" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.State" target="java.lang.Thread">
+              <point x="0.0" y="-14.5" />
+              <point x="577.0" y="257.0" />
+              <point x="618.375" y="257.0" />
+              <point x="-5.875" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.Thread">
+              <point x="59.5" y="-14.5" />
+              <point x="178.5" y="227.0" />
+              <point x="583.125" y="227.0" />
+              <point x="-41.125" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.Caches" target="java.lang.Thread">
+              <point x="-5.6843418860808015E-14" y="-14.5" />
+              <point x="304.99999999999994" y="237.0" />
+              <point x="594.875" y="237.0" />
+              <point x="-29.375" y="14.5" />
+            </edge>
+            <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="624.25" y="54.0" />
+              <point x="433.9732142857142" y="54.0" />
+              <point x="49.5" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.SaleThread" target="java.lang.Thread">
+              <point x="-31.5" y="-14.5" />
+              <point x="671.5" y="257.0" />
+              <point x="630.125" y="257.0" />
+              <point x="5.875" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.GetInThread" target="java.lang.Thread">
+              <point x="-33.5" y="-14.5" />
+              <point x="965.5" y="227.0" />
+              <point x="653.625" y="227.0" />
+              <point x="29.375" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.FunctionalInterface">
+              <point x="-59.5" y="-14.5" />
+              <point x="59.5" y="54.0" />
+              <point x="334.9732142857142" y="54.0" />
+              <point x="-49.5" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.RentThread" target="java.lang.Thread">
+              <point x="-31.5" y="-14.5" />
+              <point x="817.5" y="237.0" />
+              <point x="641.875" y="237.0" />
+              <point x="17.625" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.ControlThread" target="java.lang.Thread">
+              <point x="-37.5" y="-14.5" />
+              <point x="1123.5" y="217.0" />
+              <point x="665.375" y="217.0" />
+              <point x="41.125" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread" target="java.lang.Runnable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.ControlThread" target="Java_exercise.seventhproblem.concurrence.PrintTime">
+              <point x="37.5" y="-14.5" />
+              <point x="1198.5" y="207.0" />
+              <point x="1000.75" y="207.0" />
+              <point x="44.25" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.WeakClassKey" target="java.lang.Thread">
+              <point x="0.0" y="-14.5" />
+              <point x="443.0" y="247.0" />
+              <point x="606.625" y="247.0" />
+              <point x="-17.625" y="14.5" />
+            </edge>
+            <edge source="Java_exercise.seventhproblem.concurrence.RentThread" target="Java_exercise.seventhproblem.concurrence.PrintTime">
+              <point x="31.5" y="-14.5" />
+              <point x="880.5" y="257.0" />
+              <point x="941.75" y="257.0" />
+              <point x="-14.75" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9490445859872612" x="243.0" y="93.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/printTime">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>printTime</OriginalElement>
+          <nodes>
+            <node x="916.0" y="277.0">RentThread</node>
+            <node x="478.0" y="277.0">java.lang.Thread.WeakClassKey</node>
+            <node x="0.0" y="277.0">java.lang.Thread.UncaughtExceptionHandler</node>
+            <node x="786.0" y="277.0">InThread</node>
+            <node x="640.0" y="277.0">SaleThread</node>
+            <node x="187.0" y="351.0">MyCD</node>
+            <node x="1062.0" y="277.0">control</node>
+            <node x="555.25" y="79.0">java.lang.Runnable</node>
+            <node x="0.0" y="351.0">concurrence2</node>
+            <node x="283.3303571428571" y="0.0">java.lang.FunctionalInterface</node>
+            <node x="364.0" y="277.0">java.lang.Thread.Caches</node>
+            <node x="563.25" y="158.0">java.lang.Thread</node>
+            <node x="258.0" y="277.0">java.lang.Thread.State</node>
+            <node x="880.5" y="158.0">printTime</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="control" target="printTime">
+              <point x="25.5" y="-14.5" />
+              <point x="1138.5" y="207.0" />
+              <point x="983.75" y="207.0" />
+              <point x="44.25" y="14.5" />
+            </edge>
+            <edge source="SaleThread" target="printTime">
+              <point x="31.5" y="-14.5" />
+              <point x="734.5" y="247.0" />
+              <point x="895.25" y="247.0" />
+              <point x="-44.25" y="14.5" />
+            </edge>
+            <edge source="InThread" target="java.lang.Thread">
+              <point x="-27.5" y="-14.5" />
+              <point x="813.5" y="237.0" />
+              <point x="627.875" y="237.0" />
+              <point x="17.625" y="14.5" />
+            </edge>
+            <edge source="InThread" target="printTime">
+              <point x="27.5" y="-14.5" />
+              <point x="868.5" y="257.0" />
+              <point x="924.75" y="257.0" />
+              <point x="-14.75" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.State" target="java.lang.Thread">
+              <point x="0.0" y="-14.5" />
+              <point x="301.0" y="237.0" />
+              <point x="580.875" y="237.0" />
+              <point x="-29.375" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.Thread">
+              <point x="59.5" y="-14.5" />
+              <point x="178.5" y="227.0" />
+              <point x="569.125" y="227.0" />
+              <point x="-41.125" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.Caches" target="java.lang.Thread">
+              <point x="0.0" y="-14.5" />
+              <point x="411.0" y="247.0" />
+              <point x="592.625" y="247.0" />
+              <point x="-17.625" y="14.5" />
+            </edge>
+            <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="610.25" y="54.0" />
+              <point x="431.8303571428571" y="54.0" />
+              <point x="49.5" y="14.5" />
+            </edge>
+            <edge source="RentThread" target="java.lang.Thread">
+              <point x="-31.5" y="-14.5" />
+              <point x="947.5" y="227.0" />
+              <point x="639.625" y="227.0" />
+              <point x="29.375" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.FunctionalInterface">
+              <point x="-59.5" y="-14.5" />
+              <point x="59.5" y="54.0" />
+              <point x="332.8303571428571" y="54.0" />
+              <point x="-49.5" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread" target="java.lang.Runnable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="control" target="java.lang.Thread">
+              <point x="-25.5" y="-14.5" />
+              <point x="1087.5" y="217.0" />
+              <point x="651.375" y="217.0" />
+              <point x="41.125" y="14.5" />
+            </edge>
+            <edge source="java.lang.Thread.WeakClassKey" target="java.lang.Thread">
+              <point x="0.0" y="-14.5" />
+              <point x="549.0" y="257.0" />
+              <point x="604.375" y="257.0" />
+              <point x="-5.875" y="14.5" />
+            </edge>
+            <edge source="SaleThread" target="java.lang.Thread">
+              <point x="-31.5" y="-14.5" />
+              <point x="671.5" y="257.0" />
+              <point x="616.125" y="257.0" />
+              <point x="5.875" y="14.5" />
+            </edge>
+            <edge source="RentThread" target="printTime">
+              <point x="31.5" y="-14.5" />
+              <point x="1010.5" y="257.0" />
+              <point x="954.25" y="257.0" />
+              <point x="14.75" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="226.0" y="98.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/eightproblem/GUI/MyGui.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/sortMethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/isPrimeNumber/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="40" column="21" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/readNumber1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="52" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence2/concurrence2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4398#4399#0" expanded="true" />
+            <element signature="e#4422#4423#0" expanded="true" />
+            <element signature="e#5495#5496#0" expanded="true" />
+            <element signature="e#5519#5520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/concurrentWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="206" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#CD#0" />
             <element signature="method#CD#0;class#CD#0" />
-            <element signature="class#ControlThread#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk11/lib/src.zip!/java.desktop/javax/swing/JColorChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="131" column="24" selection-start-line="131" selection-start-column="24" selection-end-line="131" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise/TestGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="171" column="36" selection-end-line="199" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1685#1686#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
           </folding>
         </state>
       </provider>
