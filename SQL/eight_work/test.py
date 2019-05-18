@@ -5,19 +5,22 @@ db = pymysql.connect("127.0.0.1", "test", "fanqiliang123456", "exercise")
 cursor = db.cursor()
 
 def modify():
-    # os.rename("H:\\sqlite-autoconf-3230100\\tea\\win\\makefile.vc",
-    #           "H:\\sqlite-autoconf-3230100\\tea\\win\\mymakefile.vc")
-    # shutil.move("H:\\sqlite-autoconf-3230100\\tea\\win",
-    #             "H:\\sqlite-autoconf-3230100\\tea\\doc")
+    os.rename("H:\\sqlite-autoconf-3230100\\tea\\win\\makefile.vc",
+              "H:\\sqlite-autoconf-3230100\\tea\\win\\mymakefile.vc")
+    shutil.move("H:\\sqlite-autoconf-3230100\\tea\\win",
+                 "H:\\sqlite-autoconf-3230100\\tea\\doc")
+    exe("H:\\sqlite-autoconf-3230100", 0)
     cursor.execute("select * from file where TYPE=1 and size>=2")
     db.commit()
     data=cursor.fetchall()
     for d in data:
-        print(d)
+        print(d[1])
     for (dirName,dirs,files) in os.walk("H:\\sqlite-autoconf-3230100\\tea"):
         for f in files:
             os.remove(os.path.join(dirName,f))
     shutil.rmtree("H:\\sqlite-autoconf-3230100\\tea")
+    cursor.execute("delete from file")
+    db.commit()
     exe("H:\\sqlite-autoconf-3230100", 0)
 
 
@@ -79,7 +82,7 @@ def exe(rootdir, i):
 
 
 def main():
-    exe('H:\\sqlite-autoconf-3230100', 0)
+    # exe('H:\\sqlite-autoconf-3230100', 0)
     cursor.execute("delete from file")
     db.commit()
     modify()
