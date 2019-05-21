@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c192802-ad3b-4167-a94f-d7c115974c9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/src/Java_exercise/PrepareForTest/ticket/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eight_work/DB2019第八次数据库作业-樊漆亮-1712884.docx" beforeDir="false" afterPath="$PROJECT_DIR$/eight_work/DB2019第八次数据库作业-樊漆亮-1712884.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eight_work/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/eight_work/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="1c192802-ad3b-4167-a94f-d7c115974c9a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,7 @@
             <entry file="file://$PROJECT_DIR$/test.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="69">
-                  <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
                 </state>
               </provider>
             </entry>
@@ -95,8 +88,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://C:/Py3.7.2_64bit/Lib/site-packages/itchat/__init__.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="338">
-                  <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+                <state relative-caret-position="1127">
+                  <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
@@ -104,8 +97,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://C:/Py3.7.2_64bit/Lib/site-packages/itchat/core.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-34">
-                  <caret line="366" column="51" lean-forward="true" selection-start-line="366" selection-start-column="51" selection-end-line="366" selection-end-column="51" />
+                <state relative-caret-position="8303">
+                  <caret line="366" column="51" selection-start-line="366" selection-start-column="51" selection-end-line="366" selection-end-column="51" />
                 </state>
               </provider>
             </entry>
@@ -194,20 +187,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SQL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
@@ -337,15 +317,15 @@
       <workItem from="1558103844086" duration="7111000" />
       <workItem from="1558147513079" duration="1035000" />
       <workItem from="1558154848216" duration="2469000" />
+      <workItem from="1558164413346" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69475000" />
+    <option name="totallyTimeSpent" value="69578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3850365" weight="0.22395833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -682,16 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eight_work/tes.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eight_work/modify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -709,24 +679,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Py3.7.2_64bit/Lib/site-packages/itchat/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+        <state relative-caret-position="1127">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Py3.7.2_64bit/Lib/site-packages/itchat/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="366" column="51" lean-forward="true" selection-start-line="366" selection-start-column="51" selection-end-line="366" selection-end-column="51" />
+        <state relative-caret-position="8303">
+          <caret line="366" column="51" selection-start-line="366" selection-start-column="51" selection-end-line="366" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/eight_work/tes.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="22" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2ff144f3-d6f8-4ff7-854a-7c9a5ac2a299/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
         </state>
       </provider>
     </entry>

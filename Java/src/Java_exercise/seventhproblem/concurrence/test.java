@@ -4,20 +4,14 @@ import java.util.concurrent.*;
 
 public class test {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-        MyThread mt=new MyThread();
-        mt.start();
-
-        ExecutorService es=Executors.newFixedThreadPool(2);
-        es.submit(new MyThread());
-        es.submit(new MyThread());
-
-        ExecutorService es_call=Executors.newFixedThreadPool(2);
-        Future f=es_call.submit(new MyCallable());
-        Future ff=es_call.submit(new MyCallable());
-        System.out.println(f.get());
-        System.out.println(ff.get());
-        es.shutdown();
-        es_call.shutdown();
+        for(int i=0;i<100;i++){
+            System.out.println(Thread.currentThread().getName()+" in main:"+i);
+            if(i==20){
+                SecondThread st=new SecondThread();
+                new Thread(st,"T1").start();
+                new Thread(st,"T2").start();
+            }
+        }
     }
 }
 
@@ -44,4 +38,13 @@ class tt{
         return super.equals(obj);
     }
 
+}
+
+class SecondThread implements Runnable{
+    private int i;
+    public  void run(){
+        for(;i<100;i++){
+            System.out.println(Thread.currentThread().getName()+" "+i);
+        }
+    }
 }
