@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ac489-e317-4f94-829e-36fbcd8cb51a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_exercise/nineproblem/MyNetWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/nine_work/tes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL/nine_work/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,51 +65,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/eightproblem/GUIexercise/TestGui.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/nineproblem/MyNetWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state>
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3097">
-              <caret line="171" column="36" selection-end-line="199" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1648#1649#0" expanded="true" />
-                <element signature="e#1685#1686#0" expanded="true" />
-                <element signature="e#1711#1712#0" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/ticket/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#DoubleLotery#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="275">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/Java_exercise/fifthproblem/account.txt" />
         <option value="$PROJECT_DIR$/m.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e9b3c979-8090-4790-8cc7-34f204227933/console.sql" />
-        <option value="$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthpreoblem_serialize/MySerialize.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthpreoblem_serialize/Employee.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/Employee.java" />
@@ -160,6 +138,8 @@
         <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/tree/Main.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/PrepareForTest/ticket/Main.java" />
         <option value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/nineproblem/MyNetWork.java" />
+        <option value="$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java" />
       </list>
     </option>
   </component>
@@ -214,24 +194,14 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="seventhproblem" type="462c0819:PsiDirectoryNode" />
+              <item name="IOstream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="seventhproblem" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="seventhproblem" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrence" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrentWork.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="nineproblem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,11 +224,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.15393387" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -280,8 +250,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application">
+  <component name="RunManager" selected="Application.File_test">
+    <configuration name="File_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_exercise.learning_code.IOstream.File_test" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_exercise.learning_code.IOstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNetWork (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_exercise.nineproblem.MyNetWork" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_exercise.nineproblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNetWork" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Java_exercise.seventhproblem.concurrence.test" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence" />
@@ -299,8 +295,16 @@
     </configuration>
     <list>
       <item itemvalue="Application.gui" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyNetWork" />
+      <item itemvalue="Application.File_test" />
+      <item itemvalue="Application.MyNetWork (1)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyNetWork (1)" />
+        <item itemvalue="Application.File_test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_INTERFACES,ALPHA_COMPARATOR,VISIBILITY_SORTER" />
@@ -349,11 +353,15 @@
       <workItem from="1558087145961" duration="588000" />
       <workItem from="1558156297766" duration="3386000" />
       <workItem from="1558231636447" duration="1843000" />
+      <workItem from="1558540037601" duration="913000" />
+      <workItem from="1558575590583" duration="2480000" />
+      <workItem from="1558580302959" duration="48000" />
+      <workItem from="1558676741381" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115288000" />
+    <option name="totallyTimeSpent" value="119095000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -366,14 +374,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50139666" side_tool="true" weight="0.20107238" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.45251396" visible="true" weight="0.22520107" />
-      <window_info id="Structure" order="6" sideWeight="0.547486" side_tool="true" visible="true" weight="0.22520107" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.44915253" visible="true" weight="0.22184986" />
+      <window_info id="Structure" order="6" sideWeight="0.5508475" side_tool="true" weight="0.4752066" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.3282123" />
@@ -404,10 +413,10 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.50139666" side_tool="true" weight="0.20107238" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49860334" visible="true" weight="0.20107238" />
-      <window_info id="Structure" order="6" sideWeight="0.50139666" side_tool="true" weight="0.2272118" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.44915253" visible="true" weight="0.4752066" />
+      <window_info id="Structure" order="6" sideWeight="0.5508475" side_tool="true" visible="true" weight="0.4752066" />
       <window_info id="Database" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49865952" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49798927" weight="0.3282123" />
@@ -416,8 +425,8 @@
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32869786" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.32402235" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.45530728" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49865952" weight="0.35893854" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.47905028" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49798927" weight="0.32960895" />
@@ -513,7 +522,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a.sql" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e9b3c979-8090-4790-8cc7-34f204227933/console_1.sql" />
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/fifthproblem/readAndStore.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -550,16 +558,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m.sql" />
-    <entry file="file://$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/sixthproblem_serialize/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1141,7 +1139,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/PrepareForTest/ticket/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="114">
           <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1153,7 +1151,27 @@
     <entry file="file://$PROJECT_DIR$/src/Java_exercise/seventhproblem/concurrence/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/nineproblem/MyNetWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_exercise/learning_code/IOstream/File_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
